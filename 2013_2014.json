@@ -1,0 +1,81 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "General Laboratory Techniques",
+    "code": "SLT 103.2",
+    "session": "2013/2014",
+    "time": "180"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer All Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "A commercially available conc. H₂SO₄ acid contains 95% H₂SO₄ by mass, has a density of 1.84g/ml and relative molar mass of 98g/mol. Calculate: (a) Molarity (b) Pure mass of H₂SO₄ in 1L solution (c) Volume of conc. acid needed to prepare 0.15M H₂SO₄ in 250ml.",
+      "type": "THEORY"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "(a) 17.83M (b) 1748g (c) 2.10ml"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.8; color: #333; margin: 0 auto;'><div style='background-color: #f8f9fa; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);'><h2 style='color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px;'>Detailed Solution</h2><div style='margin-bottom: 25px; background-color: #eaf7ff; padding: 15px; border-radius: 8px; border-left: 4px solid #3498db;'><h3 style='color: #2980b9; margin-top: 0;'>(a) Molarity Calculation</h3><p><strong>Given:</strong></p><ul><li>Percentage by mass = 95% H₂SO₄</li><li>Density (ρ) = 1.84 g/mL</li><li>Molar mass (M) = 98 g/mol</li></ul><p><strong>Step 1:</strong> Calculate mass of 1L solution</p><p style='text-align: center;'>\\(\\text{Mass}_{\\text{solution}} = \\rho \\times V = 1.84\\,\\text{g/mL} \\times 1000\\,\\text{mL} = 1840\\,\\text{g}\\)</p><p><strong>Step 2:</strong> Determine mass of pure H₂SO₄</p><p style='text-align: center;'>\\(\\text{Mass}_{\\text{H₂SO₄}} = 0.95 \\times 1840\\,\\text{g} = 1748\\,\\text{g}\\)</p><p><strong>Step 3:</strong> Calculate moles of H₂SO₄</p><p style='text-align: center;'>\\(n = \\frac{\\text{Mass}}{\\text{Molar mass}} = \\frac{1748\\,\\text{g}}{98\\,\\text{g/mol}} \\approx 17.836\\,\\text{moles}\\)</p><p><strong>Step 4:</strong> Determine molarity</p><p style='text-align: center;'>\\(\\text{Molarity} = \\frac{n}{V} = \\frac{17.836\\,\\text{mol}}{1\\,\\text{L}} = 17.836\\,\\text{M}\\)</p><p style='background-color: #e8f5e9; padding: 10px; border-radius: 5px;'><strong>Final Answer:</strong> <span style='color: #c62828; font-weight: bold;'>17.83 M</span> (rounded to 2 decimal places)</p></div><div style='margin-bottom: 25px; background-color: #fff8e1; padding: 15px; border-radius: 8px; border-left: 4px solid #fbc02d;'><h3 style='color: #f57c00; margin-top: 0;'>(b) Pure Mass of H₂SO₄ in 1L Solution</h3><p>From part (a) Step 2, we already calculated this value:</p><p style='text-align: center; font-size: 1.2em;'>\\(\\boxed{1748\\,\\text{grams}}\\)</p><p>This means there are <strong>1748 grams</strong> of pure H₂SO₄ in every liter of the concentrated solution.</p></div><div style='background-color: #f3e5f5; padding: 15px; border-radius: 8px; border-left: 4px solid #9c27b0;'><h3 style='color: #7b1fa2; margin-top: 0;'>(c) Volume Needed for Dilution</h3><p>We use the dilution formula:</p><p style='text-align: center; font-size: 1.2em;'>\\(M_1V_1 = M_2V_2\\)</p><p><strong>Where:</strong></p><ul><li>\\(M_1 = 17.836\\,\\text{M}\\) (concentrated solution)</li><li>\\(V_1 = ?\\) (volume we need to find)</li><li>\\(M_2 = 0.15\\,\\text{M}\\) (desired concentration)</li><li>\\(V_2 = 250\\,\\text{mL}\\) (desired volume)</li></ul><p><strong>Rearranging the formula:</strong></p><p style='text-align: center;'>\\(V_1 = \\frac{M_2V_2}{M_1} = \\frac{0.15\\,\\text{M} \\times 250\\,\\text{mL}}{17.836\\,\\text{M}} \\approx 2.102\\,\\text{mL}\\)</p><div style='background-color: #ffebee; padding: 10px; border-radius: 5px; margin-top: 15px;'><strong>Important Safety Note:</strong> Always add concentrated acid to water slowly while stirring to prevent violent reactions and heat generation.</div><p style='background-color: #e8f5e9; padding: 10px; border-radius: 5px; margin-top: 10px;'><strong>Final Answer:</strong> <span style='color: #c62828; font-weight: bold;'>2.10 mL</span> (rounded to 2 decimal places)</p></div></div></div>"
+    }
+  },
+  
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "(a) How many milliliters of 24.0% (W/V) Na₂CO₃ solution is required to prepare 3.60% (W/V) Na₂CO₃ in 1L solution? (b) Meaning of 'TC 20°C' on glassware (c) Best desiccants for (i) Organic solids (ii) Inorganic solids.",
+      "type": "THEORY"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "(a) 150ml (b) Calibrated for 20°C (c)(i) Silica gel (ii) Calcium chloride"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family:Arial,sans-serif;line-height:1.6;'><div style='background:#f8f9fa;padding:15px;border-radius:8px;border-left:4px solid #3498db;margin-bottom:15px;'><h3 style='color:#2c3e50;margin-top:0;'>(a) Dilution Calculation</h3><p><strong>Given:</strong> C₁=24% (W/V), C₂=3.6% (W/V), V₂=1000mL</p><p><strong>Formula:</strong> \\(C_1V_1 = C_2V_2\\) → \\(24\\% \\times V_1 = 3.6\\% \\times 1000\\text{mL}\\)</p><p><strong>Calculation:</strong> \\(V_1 = \\frac{3.6 \\times 1000}{24} = \\boxed{150\\text{mL}}\\)</p></div><div style='background:#eaf7ff;padding:15px;border-radius:8px;border-left:4px solid #2980b9;margin-bottom:15px;'><h3 style='color:#2c3e50;margin-top:0;'>(b) TC 20°C Meaning</h3><p>\"TC\" = <strong>To Contain</strong>, \"20°C\" = calibration temperature</p><ul><li>Glassware volume markings are accurate at 20°C (standard lab condition)</li><li>Thermal expansion affects volume measurements at other temperatures</li></ul></div><div style='background:#fff8e1;padding:15px;border-radius:8px;border-left:4px solid #f39c12;'><h3 style='color:#2c3e50;margin-top:0;'>(c) Desiccants</h3><table style='width:100%;border-collapse:collapse;'><tr><th style='text-align:left;padding:8px;background:#f5f5f5;'>Material Type</th><th style='text-align:left;padding:8px;background:#f5f5f5;'>Best Desiccant</th><th style='text-align:left;padding:8px;background:#f5f5f5;'>Mechanism</th></tr><tr><td style='padding:8px;border-bottom:1px solid #ddd;'><strong>Organic Solids</strong></td><td style='padding:8px;border-bottom:1px solid #ddd;'>Silica gel</td><td style='padding:8px;border-bottom:1px solid #ddd;'>Physical adsorption (non-reactive)</td></tr><tr><td style='padding:8px;'><strong>Inorganic Solids</strong></td><td style='padding:8px;'>Calcium chloride</td><td style='padding:8px;'>Forms hydrates (CaCl₂·nH₂O)</td></tr></table></div></div>"
+    }
+  },
+  
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "(a) Explain '(3:4) HNO₃, 420ml aqueous solution'. (b) Volume constituents of this solution. (c) Two reasons for using Aluminum paints in labs.",
+      "type": "THEORY"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "(a) 3 parts HNO₃ to 4 parts water (b) 180ml HNO₃ + 240ml water (c) Corrosion resistance, heat reflection"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family:Arial,sans-serif;line-height:1.6;'><div style='background:#f8f9fa;padding:15px;border-radius:8px;border-left:4px solid #3498db;margin-bottom:15px;'><h3 style='color:#2c3e50;margin-top:0;'>(a) Ratio Notation</h3><p><strong>\\(\\left(3:4\\right)\\) HNO₃</strong> means:</p><ul><li>3 volumes concentrated nitric acid (≈16M)</li><li>4 volumes distilled water</li><li>Total solution volume = 420mL</li></ul></div><div style='background:#eaf7ff;padding:15px;border-radius:8px;border-left:4px solid #2980b9;margin-bottom:15px;'><h3 style='color:#2c3e50;margin-top:0;'>(b) Volume Calculation</h3><p><strong>Total parts</strong>: \\(3 + 4 = 7\\)</p><p><strong>Volume per part</strong>: \\(\\frac{420\\text{mL}}{7} = 60\\text{mL}\\)</p><p><strong>HNO₃ volume</strong>: \\(3 \\times 60\\text{mL} = \\boxed{180\\text{mL}}\\)</p><p><strong>Water volume</strong>: \\(4 \\times 60\\text{mL} = \\boxed{240\\text{mL}}\\)</p></div><div style='background:#fff8e1;padding:15px;border-radius:8px;border-left:4px solid #f39c12;'><h3 style='color:#2c3e50;margin-top:0;'>(c) Aluminum Paint Benefits</h3><ol><li><strong>Corrosion Resistance</strong>: Forms Al₂O₃ oxide layer that protects against chemical attack</li><li><strong>Thermal Reflectivity</strong>: Reflects \\(\\gt90\\%\\) of infrared radiation, keeping equipment cooler</li></ol></div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "(a) 0.24g NaCl in 50ml solution: Find (i) Molarity (ii) mg/ml concentration. (b) Function of constant-level device (c) Lab equipment with this device (d) Functions of (i) Lab policeman (ii) Lab thief.",
+      "type": "THEORY"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "(a)(i) 0.082M (ii) 4.8mg/ml (b) Maintains liquid level (c) Steam bath (d)(i) Mixes/stirs (ii) Retrieves samples"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family:Arial,sans-serif;line-height:1.6;'><div style='background:#f8f9fa;padding:15px;border-radius:8px;border-left:4px solid #3498db;margin-bottom:15px;'><h3 style='color:#2c3e50;margin-top:0;'>(a) Solution Preparation</h3><p><strong>(i) Molarity Calculation</strong>:</p><p>\\(\\text{Moles NaCl} = \\frac{0.24\\text{g}}{58.44\\text{g/mol}} = 0.004107\\text{mol}\\)</p><p>\\(\\text{Molarity} = \\frac{0.004107\\text{mol}}{0.05\\text{L}} = \\boxed{0.0821\\text{M}}\\)</p><p><strong>(ii) Mass Concentration</strong>:</p><p>\\(\\frac{240\\text{mg}}{50\\text{mL}} = \\boxed{4.8\\text{mg/mL}}\\)</p></div><div style='background:#eaf7ff;padding:15px;border-radius:8px;border-left:4px solid #2980b9;margin-bottom:15px;'><h3 style='color:#2c3e50;margin-top:0;'>(b) Constant-Level Device</h3><p>Maintains consistent liquid level via:</p><ul><li>Overflow mechanism</li><li>Float valve system</li><li>Prevents evaporation loss in heated baths</li></ul></div><div style='background:#fff8e1;padding:15px;border-radius:8px;border-left:4px solid #f39c12;margin-bottom:15px;'><h3 style='color:#2c3e50;margin-top:0;'>(c) Example Equipment</h3><p><strong>Steam Bath</strong> features:</p><ul><li>Temperature range: 40-100°C</li><li>Uses water or oil as heat transfer medium</li><li>Constant-level ensures safe evaporation rates</li></ul></div><div style='background:#f3e5f5;padding:15px;border-radius:8px;border-left:4px solid #9c27b0;'><h3 style='color:#2c3e50;margin-top:0;'>(d) Laboratory Tools</h3><table style='width:100%;border-collapse:collapse;'><tr><th style='text-align:left;padding:8px;background:#f5f5f5;'>Tool</th><th style='text-align:left;padding:8px;background:#f5f5f5;'>Function</th><th style='text-align:left;padding:8px;background:#f5f5f5;'>Material</th></tr><tr><td style='padding:8px;border-bottom:1px solid #ddd;'><strong>Policeman</strong></td><td style='padding:8px;border-bottom:1px solid #ddd;'>Scraping vessel walls<br>Stirring viscous solutions</td><td style='padding:8px;border-bottom:1px solid #ddd;'>Rubber/PTFE tip</td></tr><tr><td style='padding:8px;'><strong>Thief</strong></td><td style='padding:8px;'>Powder sampling<br>Liquid aliquoting</td><td style='padding:8px;'>Stainless steel/glass</td></tr></table></div></div>"
+    }
+  }
+  
+]
