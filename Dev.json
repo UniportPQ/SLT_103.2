@@ -1,12 +1,12 @@
 [{
-    "type": "pageInfo",
-    "kind": "subjective",
-    "course_title": "Lower Invertebrates",
-    "code": "AEB 200.2",
-    "session": "2019/2020",
-    "time": "180"
-  },
-  {
-    "type": "Instruction",
-    "content": "Understand Construction🚧🚧"
-  }]
+  "type": "pageInfo",
+  "kind": "subjective",
+  "course_title": "Laboratory Techniques",
+  "code": "SLT 103.2",
+  "session": "2019/2020",
+  "time": "180"
+},
+{
+  "type": "Instruction",
+  "content": "Under Construction🚧🚧"
+}]
