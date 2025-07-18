@@ -1,0 +1,454 @@
+[
+  {
+  "type": "pageInfo",
+  "kind": "subjective",
+  "course_title": "General Laboratory Techniques",
+  "code": "SLT 103.2",
+  "session": "2012/2013",
+  "time": "180"
+},
+{
+  "type": "Instruction",
+  "content": "Answer All Questions"
+},
+    {
+      "type": "heading",
+      "heading": "Section A"
+    },
+    {
+        "type": "Question",
+        "name": "Question 1a",
+        "Question": {
+            "content": "Which type of microtome would you use for sectioning paraffin-embedded specimens?",
+            "type": "subjective"
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Rotary microtome"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'><h3>Step-by-Step Explanation:</h3><ol><li>Paraffin wax provides rigid support for thin sectioning.</li><li>Rotary microtomes use a rotating wheel to advance the specimen uniformly.</li><li>Produces consistent sections (2-10 μm thick).</li><li>Commonly used in histopathology labs.</li></ol></div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 1b",
+        "Question": {
+            "content": "Which type of microtome would you use for sectioning collodion-embedded specimens?",
+            "type": "subjective"
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Sliding microtome"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'><h3>Step-by-Step Explanation:</h3><ol><li>Collodion is softer than paraffin.</li><li>Sliding microtomes use a horizontal sliding motion.</li><li>Ideal for thicker sections (10-100 μm).</li><li>Prevents crushing of delicate specimens.</li></ol></div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 1c",
+        "Question": {
+            "content": "Which type of microtome would you use for sectioning wax-embedded specimens?",
+            "type": "subjective"
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Rotary microtome"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'><h3>Step-by-Step Explanation:</h3><ol><li>Wax embedding provides structural support.</li><li>Rotary microtome's precision mechanism works well with wax.</li><li>Produces thin, uniform sections.</li><li>Same as paraffin-embedded specimens.</li></ol></div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 1d",
+        "Question": {
+            "content": "Which type of microtome would you use for sectioning unfixed and unembedded specimens?",
+            "type": "subjective"
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Cryostat (freezing microtome)"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'><h3>Step-by-Step Explanation:</h3><ol><li>Unfixed tissues require freezing to harden.</li><li>Cryostat maintains temperatures between -20°C to -30°C.</li><li>Special blade cuts frozen specimens.</li><li>Used for rapid diagnosis during surgery.</li></ol></div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 1e",
+        "Question": {
+            "content": "Name two examples of simple fixatives.",
+            "type": "subjective"
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Formaldehyde, Ethanol"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'><h3>Step-by-Step Explanation:</h3><ol><li><strong>Formaldehyde (10%)</strong>: Cross-links proteins to preserve structure.</li><li><strong>Ethanol (70-100%)</strong>: Dehydrates and coagulates proteins.</li><li>Both prevent tissue decay and maintain cellular details.</li></ol></div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 1f",
+        "Question": {
+            "content": "Name two examples of compound fixatives.",
+            "type": "subjective"
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Bouin's fluid, Zenker's fluid"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'><h3>Step-by-Step Explanation:</h3><ol><li><strong>Bouin's fluid</strong>: Contains picric acid, formaldehyde, and acetic acid.</li><li><strong>Zenker's fluid</strong>: Contains mercuric chloride, potassium dichromate, and acetic acid.</li><li>Compound fixatives combine multiple chemicals for specialized preservation.</li></ol></div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 1g",
+        "Question": {
+            "content": "The microscopic study of tissues affected by disease is called?",
+            "type": "subjective"
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Histopathology"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'><h3>Step-by-Step Explanation:</h3><ol><li>Involves tissue fixation, processing, sectioning, and staining.</li><li>Examined under microscope for disease markers.</li><li>Used to diagnose cancers, infections, and other conditions.</li></ol></div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 1h",
+        "Question": {
+            "content": "The microscopic study of cell inclusions at their site is called?",
+            "type": "subjective"
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Cytology"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'><h3>Step-by-Step Explanation:</h3><ol><li>Focuses on individual cells rather than tissues.</li><li>Examines cellular structures and inclusions.</li><li>Common techniques include Pap smears and fine needle aspiration.</li></ol></div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 1i",
+        "Question": {
+            "content": "Plant specimens are preserved and kept in ______. While live specimens of plants are found in ______.",
+            "type": "subjective"
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Herbarium, Botanical gardens"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'><h3>Step-by-Step Explanation:</h3><ol><li><strong>Herbarium</strong>: Collection of dried, pressed plant specimens for study.</li><li><strong>Botanical gardens</strong>: Living collections of plants maintained in naturalistic settings.</li></ol></div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 1j",
+        "Question": {
+            "content": "Preserved animal specimens are found in ______. While live specimens of animals are seen in ______.",
+            "type": "subjective"
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Museums, Zoos"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'><h3>Step-by-Step Explanation:</h3><ol><li><strong>Museums</strong>: Preserve animal specimens using formalin or taxidermy.</li><li><strong>Zoos</strong>: Maintain live animals for conservation and education.</li></ol></div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 1k",
+        "Question": {
+            "content": "The retardation/prevention of destruction of cells after death or removal from the body can be achieved by two methods namely ______ and ______.",
+            "type": "subjective"
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Fixation, Refrigeration"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'><h3>Step-by-Step Explanation:</h3><ol><li><strong>Fixation</strong>: Chemical preservation (e.g., formaldehyde) cross-links proteins.</li><li><strong>Refrigeration</strong>: Slows enzymatic degradation at 4°C.</li></ol></div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 1l",
+        "Question": {
+            "content": "Glasswares manufactured from ______ are better than those manufactured from ______ because they can withstand mechanical breakage and a sudden change in temperature.",
+            "type": "subjective"
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Borosilicate glass, Soda-lime glass"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'><h3>Step-by-Step Explanation:</h3><ol><li><strong>Borosilicate glass</strong>: Contains boron oxide, making it resistant to thermal shock.</li><li><strong>Soda-lime glass</strong>: More prone to cracking with temperature changes.</li><li>Borosilicate is used for lab glassware like beakers and flasks.</li></ol></div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 1m",
+        "Question": {
+            "content": "Name two acids known to attack ordinary laboratory glasswares.",
+            "type": "subjective"
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Hydrofluoric acid, Phosphoric acid"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'><h3>Step-by-Step Explanation:</h3><ol><li><strong>Hydrofluoric acid (HF)</strong>: Reacts with silica in glass, forming soluble fluorosilicates.</li><li><strong>Phosphoric acid (H₃PO₄)</strong>: Attacks glass at high temperatures or concentrations.</li><li>Require plastic (e.g., PTFE) containers for storage.</li></ol></div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 1n",
+        "Question": {
+            "content": "List three essential services in Biological Science Laboratory and their uses.",
+            "type": "subjective"
+        },
+        "Answer": {
+            "type": "string",
+            "content": "1. Autoclave - Sterilization | 2. Centrifuge - Separating components | 3. Biosafety cabinet - Safe handling of pathogens"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'><h3>Step-by-Step Explanation:</h3><ol><li><strong>Autoclave</strong>: Uses steam under pressure to sterilize equipment and media.</li><li><strong>Centrifuge</strong>: Separates mixtures by density (e.g., blood components).</li><li><strong>Biosafety cabinet</strong>: Provides HEPA-filtered airflow for working with hazardous materials.</li></ol></div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 2",
+        "Question": {
+            "content": "Calculate the limits of resolution given that the wavelength (λ) is 0.5µm and the numerical apertures (NA) are 0.45 and 1.75.",
+            "type": "subjective"
+        },
+        "Answer": {
+            "type": "string",
+            "content": "For NA=0.45: ~0.68µm | For NA=1.75: ~0.17µm"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'><h3>Step-by-Step Calculation:</h3><ol><li><strong>Formula</strong>: Resolution (R) = (0.61 × λ) / NA</li><li><strong>For NA=0.45</strong>:<br/>R = (0.61 × 0.5µm) / 0.45 ≈ 0.68µm</li><li><strong>For NA=1.75</strong>:<br/>R = (0.61 × 0.5µm) / 1.75 ≈ 0.17µm</li><li>Higher NA provides better resolution.</li></ol></div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 3",
+        "Question": {
+            "content": "Explain the principle and application of oil immersion in light microscopy.",
+            "type": "subjective"
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Principle: Oil matches refractive index of glass to reduce light refraction. Application: Enables high-resolution imaging at 1000x magnification."
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'><h3>Step-by-Step Explanation:</h3><ol><li><strong>Principle</strong>:<ul><li>Immersion oil (n=1.52) matches glass's refractive index.</li><li>Reduces light scattering at the slide-lens interface.</li><li>Maximizes light collection by the objective lens.</li></ul></li><li><strong>Application</strong>:<ul><li>Used with 100x objectives for observing bacteria or organelles.</li><li>Without oil, ~50% of light is lost to refraction.</li></ul></li></ol></div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 4",
+        "Question": {
+            "content": "The laboratory apparatus that uses small amount of steam for sterilization is called?",
+            "type": "subjective"
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Autoclave"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'><h3>Step-by-Step Explanation:</h3><ol><li>Uses saturated steam at 121°C and 15 psi pressure.</li><li>Denatures proteins and disrupts microbial membranes.</li><li>Standard cycle: 15-30 minutes depending on load.</li><li>Used for sterilizing glassware, media, and instruments.</li></ol></div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 6",
+        "Question": {
+            "content": "Describe the streak plate method with diagram.",
+            "type": "subjective"
+        },
+        "Answer": {
+            "type": "string",
+            "content": "A method to isolate pure bacterial colonies by progressively diluting a sample across agar plate quadrants."
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'><h3>Streak Plate Method Steps:</h3><ol><li><strong>Step 1</strong>: Flame sterilize inoculating loop.</li><li><strong>Step 2</strong>: Dip loop in bacterial culture and streak Zone 1 (30% of plate).</li><li><strong>Step 3</strong>: Rotate plate 90°, flame loop, and streak from Zone 1 into Zone 2.</li><li><strong>Step 4</strong>: Repeat for Zones 3 and 4 to dilute bacteria further.</li><li><strong>Result</strong>: Isolated colonies form in later zones.</li></ol><div style='text-align: center; margin-top: 15px;'><strong>Diagram:</strong><br/><img src='https://microbeonline.com/wp-content/uploads/2018/04/Streak-plate-method.png' alt='Streak Plate Diagram' style='max-width: 300px; border: 1px solid #ddd;'/></div></div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 7",
+        "Question": {
+            "content": "How do you perform a 5-fold serial dilution?",
+            "type": "subjective"
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Diluting a sample in 5 equal steps where each step is 1/5th the concentration of the previous."
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'><h3>5-Fold Serial Dilution Steps:</h3><ol><li><strong>Step 1</strong>: Label 5 tubes (1:5, 1:25, 1:125, 1:625, 1:3125).</li><li><strong>Step 2</strong>: Add 4 ml diluent (e.g., saline) to each tube.</li><li><strong>Step 3</strong>: Add 1 ml original sample to Tube 1 (1:5 dilution).</li><li><strong>Step 4</strong>: Mix Tube 1, transfer 1 ml to Tube 2 (1:25), and repeat.</li><li><strong>Final Dilution</strong>: 1:3125 in Tube 5.</li></ol><div style='margin-top: 10px;'><strong>Formula</strong>: Final concentration = Initial concentration × (1/5)<sup>n</sup> (n = dilution step).</div></div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 8",
+        "Question": {
+            "content": "The centrifuge operates by what principle?",
+            "type": "subjective"
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Centrifugal force separates components by density."
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'><h3>Centrifuge Principle:</h3><ol><li><strong>Step 1</strong>: Samples are spun at high speed (e.g., 10,000 RPM).</li><li><strong>Step 2</strong>: Centrifugal force pushes denser particles outward.</li><li><strong>Result</strong>: Layers form by density (e.g., RBCs at bottom, plasma on top).</li></ol><strong>Formula</strong>: Relative Centrifugal Force (RCF) = 1.118 × 10<sup>-5</sup> × r × (RPM)<sup>2</sup> (r = rotor radius in cm).</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 9",
+        "Question": {
+            "content": "What is the titer (cfu/ml) of an original culture after it had been diluted 1/1000, 0.1ml was inoculated, and 50 colonies were counted? Show working.",
+            "type": "subjective"
+        },
+        "Answer": {
+            "type": "string",
+            "content": "5 × 10<sup>5</sup> cfu/ml"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'><h3>Calculation Steps:</h3><ol><li><strong>Step 1</strong>: Colonies counted = 50 from 0.1 ml diluted sample.</li><li><strong>Step 2</strong>: CFU/ml in diluted sample = 50 colonies / 0.1 ml = 500 cfu/ml.</li><li><strong>Step 3</strong>: Account for 1/1000 dilution: 500 cfu/ml × 1000 = 5 × 10<sup>5</sup> cfu/ml.</li></ol><strong>Formula</strong>: Original titer = (Colonies counted / Volume plated) × Dilution factor.</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 10",
+        "Question": {
+            "content": "What is the Gram stain?",
+            "type": "subjective"
+        },
+        "Answer": {
+            "type": "string",
+            "content": "A differential staining technique to classify bacteria as Gram-positive or Gram-negative."
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'><h3>Gram Stain Steps:</h3><ol><li><strong>Step 1</strong>: Apply crystal violet (all cells stain purple).</li><li><strong>Step 2</strong>: Add iodine (forms crystal violet-iodine complex).</li><li><strong>Step 3</strong>: Decolorize with ethanol (Gram-negative lose stain).</li><li><strong>Step 4</strong>: Counterstain with safranin (Gram-negative turn pink).</li></ol><strong>Outcome</strong>: Gram-positive (purple), Gram-negative (pink).</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 11",
+        "Question": {
+            "content": "Gram-positive bacteria cell wall contains more ___ and stain ___. While Gram-negative bacteria cell wall contains more ___ and stain ___.",
+            "type": "subjective"
+        },
+        "Answer": {
+            "type": "string",
+            "content": "peptidoglycan, purple; lipopolysaccharides, pink"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'><h3>Cell Wall Composition:</h3><table style='width: 100%; border-collapse: collapse; margin: 10px 0;'><tr><th style='border: 1px solid #ddd; padding: 8px;'>Bacteria Type</th><th style='border: 1px solid #ddd; padding: 8px;'>Key Component</th><th style='border: 1px solid #ddd; padding: 8px;'>Stain Color</th></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>Gram-positive</td><td style='border: 1px solid #ddd; padding: 8px;'>Thick peptidoglycan (90%)</td><td style='border: 1px solid #ddd; padding: 8px;'>Purple</td></tr><tr><td style='border: 1px solid #ddd; padding: 8px;'>Gram-negative</td><td style='border: 1px solid #ddd; padding: 8px;'>Lipopolysaccharides (LPS) in outer membrane</td><td style='border: 1px solid #ddd; padding: 8px;'>Pink</td></tr></table><strong>Note</strong>: Gram-positive retains crystal violet due to thick peptidoglycan, while Gram-negative's outer membrane is disrupted by ethanol.</div>"
+        }
+    },
+    {
+      "type": "heading",
+      "heading": "Section B"
+    },
+    {
+        "type": "Question",
+        "name": "Question 1",
+        "Question": {
+            "content": "List at least two drying agents used in the following substances:",
+            "type": "subjective"
+        },
+        "Answer": {
+            "type": "string",
+            "content": "i) Silica gel, anhydrous sodium sulfate<br/>ii) Calcium chloride, magnesium sulfate<br/>iii) Phosphorus pentoxide, molecular sieves<br/>iv) Concentrated sulfuric acid, calcium oxide<br/>v) Potassium hydroxide, calcium oxide"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'><h3>Detailed Explanation:</h3><strong>Drying agents</strong> are materials that remove water from other substances.<br/><br/><strong>i) Organic solids:</strong><br/>• <em>Silica gel</em> - absorbs water like a sponge<br/>• <em>Anhydrous sodium sulfate</em> - forms crystals with water molecules<br/><br/><strong>ii) Inorganic solids:</strong><br/>• <em>Calcium chloride</strong> - attracts water strongly<br/>• <em>Magnesium sulfate</em> - works fast to dry powders<br/><br/><strong>iii) Organic acids (liquid):</strong><br/>• <em>Phosphorus pentoxide</em> - reacts violently with water<br/>• <em>Molecular sieves</em> - tiny holes trap water molecules<br/><br/><strong>iv) Inorganic liquids:</strong><br/>• <em>Concentrated sulfuric acid</em> - loves to grab water molecules<br/>• <em>Calcium oxide</em> - turns into calcium hydroxide when it absorbs water<br/><br/><strong>v) Gases (except N<sub>2</sub> and H<sub>2</sub>S):</strong><br/>• <em>Potassium hydroxide</em> - dissolves in water it absorbs<br/>• <em>Calcium oxide</em> - works well for most gases</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 2",
+        "Question": {
+            "content": "Write concise note on laboratory fittings and essential services",
+            "type": "subjective"
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Laboratory fittings include workbenches, fume hoods, and gas taps. Essential services include water, electricity, and gas supply."
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'><h3>Detailed Explanation:</h3><strong>Laboratory Fittings:</strong><br/>• <em>Workbenches</em> - Strong tables that resist chemicals and heat<br/>• <em>Fume hoods</em> - Like a kitchen exhaust but for dangerous fumes<br/>• <em>Gas taps</em> - Special valves to control gas flow safely<br/><br/><strong>Essential Services:</strong><br/>• <em>Water</em> - For cleaning and experiments (like distilled water)<br/>• <em>Electricity</em> - Powers all lab equipment<br/>• <em>Gas supply</em> - For Bunsen burners and other instruments<br/><br/>These are as important to a lab as a stove and fridge are to a kitchen!</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 3a",
+        "Question": {
+            "content": "With the aid of well labeled diagram each, differentiate between the principle of operation of de-ionizer and manosty hill",
+            "type": "subjective"
+        },
+        "Answer": {
+            "type": "string",
+            "content": "De-ionizer removes ions using resin beds. Manosty hill measures liquid density through buoyancy."
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'><h3>Detailed Explanation:</h3><strong>De-ionizer:</strong><br/>• Works like a water filter but for tiny charged particles (ions)<br/>• Contains two special resins:<br/>  - <em>Cation exchange resin</em> (catches positive ions)<br/>  - <em>Anion exchange resin</em> (catches negative ions)<br/>• Produces very pure water<br/><br/><strong>Manosty Hill (Hydrometer):</strong><br/>• Floats in liquids like a fishing bobber<br/>• The deeper it sinks, the lighter the liquid<br/>• Has a scale to measure density directly<br/><br/><div style='text-align: center;'><strong>Diagrams:</strong><br/><div style='display: inline-block; margin: 10px;'><img src='https://www.water-chemistry.in/wp-content/uploads/2018/12/DI-Plant-Schematic-Diagram.jpg' alt='De-ionizer Diagram' style='max-width: 200px; border: 1px solid #ddd;'/><br/>De-ionizer</div><div style='display: inline-block; margin: 10px;'><img src='https://www.grainger.com/know-how/wp-content/uploads/sites/3/2016/05/Hydrometer-Diagram.jpg' alt='Hydrometer Diagram' style='max-width: 150px; border: 1px solid #ddd;'/><br/>Manosty Hill</div></div></div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 3b",
+        "Question": {
+            "content": "What weight of \\(CaCO_3\\) (in grams) will be dissolved in two litres of water to prepare a 100ppm \\( Ca^{2+}\\) solution?",
+            "type": "subjective"
+        },
+        "Answer": {
+            "type": "string",
+            "content": "0.5 g"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 12px; border-radius: 6px; border-left: 4px solid #3498db;'><h3>Detailed Calculation:</h3><strong>Step 1:</strong> Understand ppm (parts per million)<br/>100 ppm = 100 mg \\(Ca^{2+}\\) per liter<br/><br/><strong>Step 2:</strong> Calculate for 2 liters<br/>100 mg/L × 2 L = 200 mg \\(Ca^{2+}\\) needed<br/><br/><strong>Step 3:</strong> Convert \\(Ca^{2+}\\) to \\(CaCO_3\\)<br/>Molar mass ratio: \\(\\frac{CaCO_3}{Ca^{2+}} = \\frac{100.09\\ g/mol}{40.08\\ g/mol} = 2.5\\)<br/><br/><strong>Step 4:</strong> Calculate \\(CaCO_3\\) weight<br/>200 mg × 2.5 = 500 mg = <strong>0.5 g</strong><br/><br/><strong>Final Formula:</strong><br/>\\(\\text{Weight} = \\frac{\\text{ppm} × \\text{Volume} × M_{CaCO_3}}{M_{Ca^{2+}} × 1000}\\)<br/>\\(= \\frac{100 × 2 × 100.09}{40.08 × 1000} = 0.5\\ g\\)</div>"
+        }
+    }
+]
